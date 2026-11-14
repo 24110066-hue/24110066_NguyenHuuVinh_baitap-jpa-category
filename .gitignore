@@ -1,0 +1,11 @@
+target/
+dist/
+data/
+uploads/
+.idea/
+.vscode/
+config/db.properties
+config/setenv.bat
+config/setenv.sh
+.env
+*.log
