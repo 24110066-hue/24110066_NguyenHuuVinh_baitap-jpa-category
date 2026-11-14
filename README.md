@@ -1,9 +1,7 @@
-# Bài tập 01 ngày 09/11/2026 — CRUD Category bằng JPA
-
 Ứng dụng Java Web theo mô hình **Servlet/JSP → Service → DAO → JPA → MySQL**.
 Triển khai từ hai tài liệu “CRUD category bằng JPA” và “Cấu hình và test JPA”.
 
-**Sinh viên:** điền họ tên · **MSSV:** điền MSSV · **Lớp:** điền lớp trước khi nộp.
+Nguyễn Hữu Vinh-24110066
 
 ## 1. Nội dung đã thực hiện
 
