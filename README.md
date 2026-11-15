@@ -2,10 +2,12 @@ Nguyễn Hữu Vinh-24110066
 
 Hướng dẫn:
 1.Mở lại thư mục jpa-category
+
 2.Nhấn Ctrl + L -> gõ cmd
+
 3.Nhập .\scripts\run-demo.bat
-4.Mở http://localhost:8080/..., truy cập:
-http://localhost:8080/jpa-category/admin/categories
+
+4.truy cập: http://localhost:8080/jpa-category/admin/categories
 
 
 ## Tài liệu tham khảo
